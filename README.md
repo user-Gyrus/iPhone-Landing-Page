@@ -25,7 +25,7 @@ This project focuses on delivering a premium user experience through modern anim
 
 ## 🔗 Live Demo
 
-👉 **View Project:** YOUR_VERCEL_LINK
+👉 **View Project:** https://iphone-landing-page-azure.vercel.app/
 
 ## 📸 Project Preview
 
